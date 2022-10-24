@@ -1,0 +1,47 @@
+.lewis {
+    border: 5px solid #fff;
+    border-radius: 2%;
+    width: 800px;
+  }
+
+.space-img {
+    padding: 8px;
+}
+
+.space-p {
+    padding: 5px;
+}
+
+.lewis-background {
+    background-image: linear-gradient(black, purple);
+}
+
+.title-background {
+    background-color: #702963;
+}
+
+.mid-background {
+    background-color: black;
+}
+
+.title-goat {
+    color: black;
+    font-size: 4rem;
+}
+
+.t-color {
+    color: yellow;
+}
+
+.border-card {
+    border: 5px solid #ff00ff;
+}
+
+.bor-light {
+    border: 3px solid #000;
+}
+
+.but-color {
+    background-color: #ff00ff;
+    color: black;
+}
